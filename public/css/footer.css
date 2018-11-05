@@ -1,0 +1,11 @@
+.bg_sit_footer{width:100%;background:rgba(0,0,0,0.8);;height:300px;box-sizing:border-box;border-color:rgba(0,0,0,0.8);;min-width:1200px;padding-top:3rem;}
+.footer{display:flex;color:#9c9c9c;justify-content:space-between;width:1200px;margin: auto;}
+.footer ul{list-style:none;}
+.tubiao{margin-top:20px;margin-left:6px;}
+.tubiao a img{margin:13px;}
+.tubiao a{display:inline-block;width:45px;height:45px;background:#FFFFFF;}
+.tubiao img{width:20px;}
+.mt20{margin-top:20px;}
+
+.small-font>a{font-size:15px;color:#9c9c9c;text-decoration:none;}
+.small-font>a:hover{color:#FFFFFF;text-decoration:none;}

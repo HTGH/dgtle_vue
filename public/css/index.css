@@ -1,0 +1,51 @@
+/*轮播*/
+.swiper-container{min-width: 1200px;height: 510px;margin-top:100px !important;max-width: 1200px;}
+.swiper-button-next{background: url("../img/index/arrow-right.png") no-repeat !important}
+.swiper-button-prev{background: url("../img/index/arrow-left.png") no-repeat !important}
+/*hot*/
+.hot-floor{width:1200px;height:380px;display:flex;align-items: flex-end;justify-content:space-between;margin:0 auto;margin-top:60px;}
+.hot-left{width:590px;height:360px;border-radius:2px;overflow:hidden;position:relative;}
+.word-img{width:100%;height:100%;position:relative;}
+.hot-left p {font-size: 24px; color: #FFFFFF; letter-spacing:0; line-height: 34px; width: 480px; position: absolute; left: 50px; top: 120px; font-weight: 500; margin: 0; text-indent:45px;}
+.hot-left p span {font-size: 12px; color: #FFFFFF; letter-spacing: 0; line-height: 12px; position: absolute; right: -20px; bottom: -40px; }
+.hot-left .pic-from {font-size: 12px; color: #FFFFFF; letter-spacing: 0; position: absolute; right: 10px; bottom: 10px; }
+.hot-right{width:590px;height:380px;text-align:right;}
+.right-items{position:relative;width:29.5rem;height:16.5rem;}
+.right-item{border-radius:2px;overflow:hidden;position:absolute;}
+a.sex-img{display:block; width: 100%; height: 100%; position: relative; background-repeat: no-repeat; background-position: center; background-size:cover;}
+.hot-title h3{display:inline-block;font-size:48px;color:#CECECE;letter-spacing:10px;line-height:48px;height:50px; position:relative;margin-right:-15px;}
+.hot-title h3 span{position: absolute;  left: -12px; top: 48px; font-size: 20px; color: #e4e4e4; letter-spacing: 0; line-height: 20px;}
+a.sex-img::before{content:""; display:block; width: 100%; height:100%; background: rgba(0, 0, 0, 0.2); -webkit-transition: all 0.3s ease 0s; -ms-transition: all 0.3s ease 0s; -o-transition: all 0.3s ease 0s; transition: all 0.3s ease 0s;}
+.hot-right .right-items .right-item:hover a.sex-img::before{background: rgba(0, 0, 0, 0.1);}
+.hot-floor .hot-right .right-items .right-item.sx{width:295px;height:120px;left:0;top:0;}
+.hot-floor .hot-right .right-items .right-item.ds{width:285px;height:285px;left:305px;top:30px;}
+.hot-floor .hot-right .right-items .right-item.wx{width:120px;height:80px;left:0;top:130px}
+.hot-floor .hot-right .right-items .right-item.hs{width:165px;height:165px;left:130px;top:130px;}
+.hot-floor .hot-right .right-items .right-item.vlog{width:120px;height:80px;left:0;top:220px;}
+.hot-info{position: absolute;right: 5px;bottom: 5px;text-align: right;}
+.hot-right .right-items .right-item .hot-info h3{font-size: 20px;line-height: 20px;}
+.hot-right .right-items .right-item .hot-info h3 a{color: #fff;}
+.hot-right .right-items .right-item .hot-info h4{font-size: 12px;line-height: 12px;}
+.hot-right .right-items .right-item .hot-info h4 a{font-size: 12px; color: #FFFFFF; letter-spacing: 0; line-height: 12px; margin-top: 6px;}
+/*mix*/
+.mix{width: 1220px;margin:30px auto 0;}
+.list_group{padding:10px;float: left;width: 305px;margin-bottom: 0;}
+.list_group.active{width:1220px;height:530px;}
+.list_group.active:hover{background:rgba(250,250,250,0.9);box-shadow:0 2px 6px 6px #D8D8D8;border-radius: 4px;}
+.list_group.active .img-box{width:1200px;height:510px;position: relative;}
+.mix-img{width: 100%;height:100%;display:block;background-repeat: no-repeat;background-position:center;background-size:cover;}
+.forum-type{font-size:18px;color:#FFFFFF !important;display: inline-block;height:30px;background:rgba(9,9,9,0.5);border-radius:100px;text-align: center;line-height:30px;position:absolute;top:20px;left:20px;    padding: 0 8px 0 9px;}
+.list_group.article{width:610px;height:410px;padding-bottom:10px;}
+.list_group.article li{width:590px;height:390px;}
+.list_group_item{width:100%;}
+.list_group.article:hover{background:rgba(250,250,250,0.9);box-shadow:0 2px 6px 6px #D8D8D8;border-radius: 4px;}
+.list_group.article .mix-img::before{content:""; display:block; width: 100%; height:100%; background: rgba(0, 0, 0, 0.2); -webkit-transition: all 0.3s ease 0s; -ms-transition: all 0.3s ease 0s; -o-transition: all 0.3s ease 0s; transition: all 0.3s ease 0s;}
+.list_group.article:hover .mix-img::before{background: rgba(0, 0, 0, 0);}
+/*news*/
+.xw{display: flex;flex-flow: column wrap;height:1000px;width:1200px;margin: 0 auto;position: relative;top:1755px;}
+.xw .list_group{width: 290px;margin-top:10px;margin-right:13px;display: inline-block;position: relative;padding: 0!important;}
+.xw .list_group .list_group_item{display: inline-block;width: 100%;}
+/*footer*/
+#footer{margin-top: 3rem;}
+
+

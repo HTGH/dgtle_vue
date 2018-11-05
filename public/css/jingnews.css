@@ -1,0 +1,65 @@
+div{display: block;}
+/*轮播*/
+.jingnews-header{background: #FFFFFF;padding: 60px 0;}
+.jingnews-banner-box{height: 540px;position: relative;top:100px;padding: 60px 0;display: flex;margin: auto;justify-content: center;z-index: 1;clear: both;padding-right: 10px;}
+.jingnews-banner{display: flex;align-items: flex-end;justify-content: flex-start;width: 1200px;}
+/*文字轮播*/
+.carousel {
+
+}
+.carousel-item{
+    margin-top: 8px;
+}
+.carousel-inner {
+    position: relative;
+    width:360px;
+    overflow: hidden;
+    display: inline-block;
+    height: 420px;
+}
+.banner-info{width: 360px;height: 420px;margin-right: 20px;}
+.banner-info h3 a{color: #333333;line-height: 38px;font-weight: bold;overflow: hidden;letter-spacing: 0;font-size: 30px;}
+.banner-info p{font-size: 14px;color: #999999;letter-spacing: 0;line-height: 30px;margin: 33px 0 20px;overflow: hidden;text-align: justify;}
+.banner-info p+div>a{width: 100px;height:40px;line-height:40px;text-align:center;display: block;border-radius: 18px; background:#f0f0f0;color:#666666;}
+.banner-views{width: 600px;height: 420px;margin-right:20px;margin-left: 20px;}
+.banner-views img{width:600px;height:420px;overflow: hidden;}
+.banner-previews{width: 200px;height: 276px;}
+.banner-previews h3{font-size: 20px;color: #666666;letter-spacing: 0;overflow: hidden;line-height: 28px;margin-bottom: 20px;}
+.banner-previews::before{
+    content: "";
+    display: block;
+    width: 200px;height: 276px;
+    background: rgba(0, 0, 0, 0.2);
+    -webkit-transition: all 0.3s ease 0s;
+    -ms-transition: all 0.3s ease 0s;
+    -o-transition: all 0.3s ease 0s;
+    transition: all 0.3s ease 0s;
+}
+.sidebar{width: 24px;height: 310px;margin-left: 20px;margin-top: 90px;}
+.sidebar .sidebar-1{font-size: 14px;color: #999999;letter-spacing: 0;line-height: 28px;margin-bottom: 30px;text-align: center;}
+.sidebar .sidebar-2{font-size: 24px;color:#999999;letter-spacing: 0;line-height: 28px;text-align: center;}
+
+
+/*内容*/
+.jingnews-nav{margin-top:60px;background: #FFFFFF;width: 100%;display: flex;align-items: center;position:fixed;box-shadow: 0 15px 15px rgba(15,37,64,0.1);vertical-align: middle;z-index:100;height:70px;}
+.jingnews-nav-content{z-index:100;}
+.nav-title{float: left;}
+.nav-title h2{height: 1.8rem;line-height: 1.8rem;display: flex;align-items: center;justify-content: flex-start;letter-spacing: 0;}
+.nav-title h2 a{font-size:1.4rem;color: #424E65;}
+.nav-title span{font-size:1rem;color: #666;border-left: 1px solid #e5e5e5;display: block;height: 22px;margin-left:10px;padding-left:10px;line-height:21px;}
+/*内容导航*/
+.details{
+    position: relative;
+    margin: auto;
+}
+.jingnewsUl{display:flex;justify-content:center;margin-top: 120px;height:2.9rem;}
+.jingnewsUl:before{content:"";display:table;}
+
+.jingnewsUl li{position: relative;height:40px;margin: 0 1rem; padding: 0 0.5rem;font-size:1rem;display:block;}
+.jingnewsUl li a{display: inline-block;color:#999;cursor:pointer;}
+.jingnewsUl li.active,.jingnewsUl li:hover{color:#333;font-weight: bold;}
+.jingnewsUl li i{width:0;height: 2px;color: #333;}
+.jingnewsUl li i.borde{position: absolute;left: 50%;bottom: 0;transform: translate(-50%,0);height: 2px;background: #333;}
+.jingnewsUl li:hover i.borde{position: absolute;left: 50%;bottom: 0;transform: translate(-50%,0);height: 2px;background: #333;width: 100%;transition: all 0.2s linear;}
+
+#footer{margin-top: 3rem;}

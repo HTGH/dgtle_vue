@@ -1,0 +1,29 @@
+.bg_sit{width:100%;box-sizing:border-box;background:rgba(0,0,0,0.8);border-color:rgba(0,0,0,0.8); height:60px;min-width:1300px;position:fixed;z-index: 100;}
+.header{width:100%;height:60px;box-sizing:border-box;display:flex;margin:auto;justify-content:space-around;min-width:1300px;}
+.my_logo_width{width:120px;height:40px;margin-top:10px;}
+.header_nav{width:820px;display:flex;list-style:none;flex-flow:row nowrap;margin-top:20px;position: relative;}
+.header_nav a{color: #9c9c9c;font-size:0.75rem;font-weight:bold;text-decoration:none;margin-left:50px;}
+.header_nav a:hover{color:#FFFFFF;text-decoration:none;}
+.dl:hover{color: white;text-decoration:none;}
+.r{float:right;display: flex;justify-content: space-around;position: relative;max-width: 247px;}
+.r li{float: left;font-size: 0.7rem; letter-spacing: 0;line-height: 3rem;margin: 0 1rem;  pointer-events: auto; height: 3rem;}
+.r li a{color: #9c9c9c;}
+.search_img{display:inline-block;height: 32px;width: 32px;}
+
+
+#dlcg{padding: 0;display: flex;justify-content: space-around;margin-top: 15px;min-width: 180px;margin-left: 0;position: relative;}
+#dlcg ul li{font-size: 0.7rem; color: #333; letter-spacing: 0;  line-height: 1.7rem;  margin: 0;  text-align: center;  height: 1.7rem;  cursor: pointer;}
+#lingdang{display: flex;flex-direction: column;position: relative;}
+.lingdang-text{width: 100px;height: 130px;background: #fff;display: flex;flex-direction: column;position: absolute;top:40px;right: -30px;}
+#photo{display: flex;flex-direction: column;position: relative;}
+.photo-text{width: 100px;height: 170px;background: #fff;display: flex;flex-direction: column;position: absolute;top:46px;right: -27px;}
+.photo-text li:hover,.lingdang-text li:hover{background: gray;}
+#zhux{font-size: 0.7rem;}
+#zhux.dl:hover{color: white;text-decoration:none;}
+#l1{position: absolute;left:40px;top:5px}
+#l2{position: absolute;left:45px;top:-1px}
+/*解决外边距溢出问题*/
+#header::after{
+    content: "";
+    display: table;
+}

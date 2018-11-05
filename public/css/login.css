@@ -1,0 +1,125 @@
+/*最外 背景*/
+body{background:rgba(40,45,54,.4);}
+@keyframes myfirst
+{
+    0%   {background:url("http://img.rrcj123.com/detleJQ/img/loginBG.png"); width:0;height:860px;opacity:0}
+    100% {background:url("http://img.rrcj123.com/detleJQ/img/loginBG.png"); width:100%;height:860px;opacity:1}
+}
+#container {
+    margin: auto;
+    margin-top: 60px;
+    width:100%;
+    overflow-x: hidden;
+    height:860px;
+    background-image: url("http://img.rrcj123.com/detleJQ/img/loginBG.png");
+    animation:myfirst 1s linear;
+}
+/*form*/
+#cover{
+    width: 380px;
+    height:310px;
+    margin: auto;
+    margin-top: 210px;
+    box-sizing: border-box;
+    background-color: rgba(0,0,0,0.3);
+}
+/*form头 文字*/
+#cover .txt{
+    float: left;
+    overflow: hidden;
+    width: 380px;
+    height:310px;
+    padding: 10px;
+}
+#cover .txt p{
+    height: 40px;
+    line-height:40px;
+    width: 360px;
+    border-bottom: 1px solid #f0f0f0;
+}
+#cover .txt p span{
+	position: relative;
+	left: 30px;
+}
+#cover .txt p span,#cover .txt p a{
+    color:#fff;
+}
+#cover .txt p{
+    font-size: 20px;
+}
+#cover .txt p a{
+    font-size: 16px;
+    position: relative;
+    left: 140px;
+}
+/*输入框*/
+#cover .txt .text input{
+    border:1px solid #ddd;
+    padding:10px 20px;
+    width:360px;
+    margin-top:16px;
+    font-size: 16px;
+    background-color: rgba(0,0,0,0.2);
+}
+/*input框提示文字*/
+#cover .txt .text input::-webkit-input-placeholder{
+    color: #9C9C9C;
+}
+#cover .txt .text input::-moz-input-placeholder{
+    color: #9C9C9C;
+}
+#cover .txt .text input::-ms-input-placeholder{
+    color: #9C9C9C;
+}
+/*复选框*/
+#cover .txt .chose{
+    margin-bottom:10px;
+    margin-top: 10px;
+    color: #ffffff;
+    position: relative;
+    left: 30px;
+}
+#cover .txt .chose span{
+    position: relative;
+    left:130px;
+    font-size: 16px;
+}
+#cover .txt .chose .checkbox{
+    position: relative;
+    width: 18px;
+    height: 18px;
+    top:2px;
+}
+/*登录按钮*/
+.button_login{
+    background: -moz-linear-gradient(top, #27b0f6 0%, #0aa1ed 100%);
+    background: -webkit-linear-gradient(top, #27b0f6 0%, #0aa1ed 100%);
+    background: -o-linear-gradient(top, #27b0f6 0%, #0aa1ed 100%);
+    background: -ms-linear-gradient(top, #27b0f6 0%, #0aa1ed 100%);
+    background: linear-gradient(top, #27b0f6 0%, #0aa1ed 100%);
+    border-radius: 2px;
+    color:#fff;
+    text-align:center;
+    width:360px;
+    line-height:35px;
+    font-weight:bold;
+    margin:0 auto;
+    border:0;
+    font-size: 18px;
+    padding: 5px;
+    cursor: pointer;
+}
+/*错误提示*/
+#showResult{
+    width: 258px;
+    height: 30px;
+    position: absolute;
+    top: 525px;
+    right:490px;
+    display: inline-block;
+    line-height: 30px;
+    font-size: 18px;
+    color: #fff;
+    padding-left: 8px;
+}
+
