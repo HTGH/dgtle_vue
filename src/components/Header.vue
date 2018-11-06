@@ -3,7 +3,7 @@
     <div class="bg_sit">
       <div class="header">
         <!--logo-->
-        <a href="#"><img src="http://img.rrcj123.com/detleJQ/img/logo.png" alt="" class="my_logo_width"></a>
+        <a href="#"><img src="https://img.rrcj123.com/detleJQ/img/logo.png" alt="" class="my_logo_width"></a>
         <!--导航栏-->
         <ul class="header_nav">
           <li><router-link to="/index">首页</router-link></li>
@@ -24,7 +24,7 @@
 
             <ul id="zhux"><li style=" color: #9c9c9c;cursor:pointer" v-html="uname"></li></ul>
             <ul id="photo"   @mouseenter="hover2" @mouseleave="leave2">
-              <li><img src="http://img.rrcj123.com/detleJQ/img/dlcg.png" alt=""/></li>
+              <li><img src="https://img.rrcj123.com/detleJQ/img/dlcg.png" alt=""/></li>
               <li id="l2" v-show="isshow2">
                 <ul class="photo-text">
                   <li>个人中心</li>
@@ -36,7 +36,7 @@
               </li>
             </ul>
             <ul id="lingdang" @mouseenter="hover" @mouseleave="leave" >
-              <li><img src="http://img.rrcj123.com/detleJQ/img/lingdang.png" alt=""/></li>
+              <li><img src="https://img.rrcj123.com/detleJQ/img/lingdang.png" alt=""/></li>
               <li id="l1">
                 <ul class="lingdang-text" v-show="isshow">
                   <li>评论</li>

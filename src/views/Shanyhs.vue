@@ -15,7 +15,7 @@
                 <!--搜索框-->
                 <div class="search">
                     <input type="text" placeholder="搜索机器型号" autocomplete="off" class="el-input__inner" v-model="kw" @keyup.13="search_click()">
-                    <a id="mysearch" class="search_img"><img src="http://img.rrcj123.com/detleJQ/img/search.png" alt="" @click="search_click(kw)"/></a>
+                    <a id="mysearch" class="search_img"><img src="https://img.rrcj123.com/detleJQ/img/search.png" alt="" @click="search_click(kw)"/></a>
                 </div>
             </div>
             <!-- 右边-->
@@ -27,7 +27,7 @@
         </div>
     </div>
     <div class="home-section">
-        <div style="width:1903px;height: 440px;background-image: url('http://img.rrcj123.com/detleJQ/img/shanyhs/banner.png');position: relative">
+        <div style="width:1903px;height: 440px;background-image: url('https://img.rrcj123.com/detleJQ/img/shanyhs/banner.png');position: relative">
             <!--菜单-->
             <div class="select-phone-link-wrapper">
                 <ul class="content-list">
@@ -106,22 +106,22 @@
     <div style="background: #fff">
         <ul class="step-flow">
             <li class="step-item">
-                <img src="http://img.rrcj123.com/detleJQ/img/shanyhs/1.png">
+                <img src="https://img.rrcj123.com/detleJQ/img/shanyhs/1.png">
                 <p>1.下单</p>
             </li>
             <li class="circle-item"><i class="circle"></i></li>
             <li class="step-item">
-                <img src="http://img.rrcj123.com/detleJQ/img/shanyhs/2.png">
+                <img src="https://img.rrcj123.com/detleJQ/img/shanyhs/2.png">
                 <p>2.顺丰上门取件</p>
             </li>
             <li class="circle-item"><i class="circle"></i></li>
             <li class="step-item">
-                <img src="http://img.rrcj123.com/detleJQ/img/shanyhs/3.png">
+                <img src="https://img.rrcj123.com/detleJQ/img/shanyhs/3.png">
                 <p>3.手机检测</p>
             </li>
             <li class="circle-item"><i class="circle"></i></li>
             <li class="step-item">
-                <img src="http://img.rrcj123.com/detleJQ/img/shanyhs/4.png">
+                <img src="https://img.rrcj123.com/detleJQ/img/shanyhs/4.png">
                 <p>4.坐等收款</p>
             </li>
         </ul>

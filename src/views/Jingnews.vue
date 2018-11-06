@@ -59,13 +59,13 @@
                 <div  class="carousel" data-ride="carousel">
                     <!-- 轮播图片-->
                     <div class="carousel-inner banner-views">
-                        <div class="carousel-item active"><img src="http://img.rrcj123.com/detleJQ/img/news/banner1.jpg"/></div>
-                        <div class="carousel-item"><img src="http://img.rrcj123.com/detleJQ/img/news/banner2.jpg"/></div>
-                        <div class="carousel-item"><img src="http://img.rrcj123.com/detleJQ/img/news/banner3.jpg"/></div>
-                        <div class="carousel-item"><img src="http://img.rrcj123.com/detleJQ/img/news/banner4.jpg"/></div>
-                        <div class="carousel-item"><img src="http://img.rrcj123.com/detleJQ/img/news/banner5.jpg"/></div>
-                        <div class="carousel-item"><img src="http://img.rrcj123.com/detleJQ/img/news/banner6.jpg"/></div>
-                        <div class="carousel-item"><img src="http://img.rrcj123.com/detleJQ/img/news/banner1.jpg"/></div>
+                        <div class="carousel-item active"><img src="https://img.rrcj123.com/detleJQ/img/news/banner1.jpg"/></div>
+                        <div class="carousel-item"><img src="https://img.rrcj123.com/detleJQ/img/news/banner2.jpg"/></div>
+                        <div class="carousel-item"><img src="https://img.rrcj123.com/detleJQ/img/news/banner3.jpg"/></div>
+                        <div class="carousel-item"><img src="https://img.rrcj123.com/detleJQ/img/news/banner4.jpg"/></div>
+                        <div class="carousel-item"><img src="https://img.rrcj123.com/detleJQ/img/news/banner5.jpg"/></div>
+                        <div class="carousel-item"><img src="https://img.rrcj123.com/detleJQ/img/news/banner6.jpg"/></div>
+                        <div class="carousel-item"><img src="https://img.rrcj123.com/detleJQ/img/news/banner1.jpg"/></div>
                     </div>
                 </div>
                 <!-- 右边图片轮播-->
@@ -75,31 +75,31 @@
                     <div class="carousel-inner banner-previews">
                         <div class="carousel-item active">
                             <h3>更新 macOS Mojave 前，你需要做哪些准备?</h3>
-                            <div style="background: url('http://img.rrcj123.com/detleJQ/img/news/banner2.jpg');background-size: cover" class="rimg"></div>
+                            <div style="background: url('https://img.rrcj123.com/detleJQ/img/news/banner2.jpg');background-size: cover" class="rimg"></div>
                         </div>
                         <div class="carousel-item">
                             <h3>微软发布 Office 2019 正式版</h3>
-                            <div style="background: url('http://img.rrcj123.com/detleJQ/img/news/banner3.jpg');background-size: cover" class="rimg"></div>
+                            <div style="background: url('https://img.rrcj123.com/detleJQ/img/news/banner3.jpg');background-size: cover" class="rimg"></div>
                         </div>
                         <div class="carousel-item">
                             <h3>Surface Hub 2 体验如何？外媒上手后这样说</h3>../assets/
-                            <div style="background: url('http://img.rrcj123.com/detleJQ/img/news/banner4.jpg');background-size: cover" class="rimg"></div>
+                            <div style="background: url('https://img.rrcj123.com/detleJQ/img/news/banner4.jpg');background-size: cover" class="rimg"></div>
                         </div>
                         <div class="carousel-item">
                             <h3>苹果推出 macOS Mojave 正式版，你更新了吗？</h3>
-                            <div style="background: url('http://img.rrcj123.com/detleJQ/img/news/banner5.jpg');background-size: cover" class="rimg"></div>
+                            <div style="background: url('https://img.rrcj123.com/detleJQ/img/news/banner5.jpg');background-size: cover" class="rimg"></div>
                         </div>
                         <div class="carousel-item">
                             <h3>微软新品发布会前瞻：例行升级之外，会有惊喜吗？</h3>
-                            <div style="background: url('http://img.rrcj123.com/detleJQ/img/news/banner6.jpg');background-size: cover" class="rimg"></div>
+                            <div style="background: url('https://img.rrcj123.com/detleJQ/img/news/banner6.jpg');background-size: cover" class="rimg"></div>
                         </div>
                         <div class="carousel-item">
                             <h3>新iphone终极爆料</h3>
-                            <div style="background: url('http://img.rrcj123.com/detleJQ/img/news/banner1.jpg');background-size: cover" class="rimg"></div>
+                            <div style="background: url('https://img.rrcj123.com/detleJQ/img/news/banner1.jpg');background-size: cover" class="rimg"></div>
                         </div>
                         <div class="carousel-item">
                             <h3>更新 macOS Mojave 前，你需要做哪些准备？</h3>
-                            <div style="background: url('http://img.rrcj123.com/detleJQ/img/news/banner2.jpg');background-size: cover" class="rimg"></div>
+                            <div style="background: url('https://img.rrcj123.com/detleJQ/img/news/banner2.jpg');background-size: cover" class="rimg"></div>
                         </div>
                     </div>
                 </div>
@@ -133,7 +133,7 @@
                     <ul class="list_group" style="height:360px;width:590px;">
                         <li class="list_group_item hot-left">
                             <a href="#" target="_blank">
-                                <div class="word-img"><img src="http://img.rrcj123.com/detleJQ/img/index/hot-left.jpg" alt=""></div>
+                                <div class="word-img"><img src="https://img.rrcj123.com/detleJQ/img/index/hot-left.jpg" alt=""></div>
                                 <p>
                                     <i></i>有些任务别无选择。
                                     <span>————《碟中谍6：全面瓦解》</span>
@@ -145,74 +145,74 @@
                     <div style="display: flex;flex-flow: column;flex-wrap: wrap;height:2650px;width: 590px">
                         <ul class="list_group"  style="height:400px;">
                             <li class="list_group_item"  >
-                                <a class="mix-img" href="#" target="_blank" style="background-image: url('http://img.rrcj123.com/detleJQ/img/index/mix/new1.jpg')"></a>
+                                <a class="mix-img" href="#" target="_blank" style="background-image: url('https://img.rrcj123.com/detleJQ/img/index/mix/new1.jpg')"></a>
                                 <a target="_blank" class="forum-type">数码</a>
                             </li>
                         </ul>
                         <ul class="list_group"  style="height:400px;">
                             <li class="list_group_item">
-                                <a class="mix-img" href="#" target="_blank" style="background-image: url('http://img.rrcj123.com/detleJQ/img/index/mix/new2.jpg')"></a>
+                                <a class="mix-img" href="#" target="_blank" style="background-image: url('https://img.rrcj123.com/detleJQ/img/index/mix/new2.jpg')"></a>
                                 <a target="_blank" class="forum-type">人物</a>
                             </li>
                         </ul>
                         <ul class="list_group"  style="height:450px;">
                             <li class="list_group_item"  >
-                                <a class="mix-img" href="#" target="_blank" style="background-image: url('http://img.rrcj123.com/detleJQ/img/index/mix/new3.jpg')"></a>
+                                <a class="mix-img" href="#" target="_blank" style="background-image: url('https://img.rrcj123.com/detleJQ/img/index/mix/new3.jpg')"></a>
                                 <a target="_blank" class="forum-type">手机</a>
                             </li>
                         </ul>
                         <ul class="list_group"  style="height:350px;">
                             <li class="list_group_item"  >
-                                <a class="mix-img" href="#" target="_blank" style="background-image: url('http://img.rrcj123.com/detleJQ/img/index/mix/new4.jpg')"></a>
+                                <a class="mix-img" href="#" target="_blank" style="background-image: url('https://img.rrcj123.com/detleJQ/img/index/mix/new4.jpg')"></a>
                                 <a target="_blank" class="forum-type">生活</a>
                             </li>
                         </ul>
                         <ul class="list_group"  style="height:410px;">
                             <li class="list_group_item"  >
-                                <a class="mix-img" href="#" target="_blank" style="background-image: url('http://img.rrcj123.com/detleJQ/img/index/mix/new6.jpg')"></a>
+                                <a class="mix-img" href="#" target="_blank" style="background-image: url('https://img.rrcj123.com/detleJQ/img/index/mix/new6.jpg')"></a>
                                 <a target="_blank" class="forum-type">手机</a>
                             </li>
                         </ul>
                         <ul class="list_group"  style="height:360px;">
                             <li class="list_group_item"  >
-                                <a class="mix-img" href="#" target="_blank" style="background-image: url('http://img.rrcj123.com/detleJQ/img/index/hot-right.png')"></a>
+                                <a class="mix-img" href="#" target="_blank" style="background-image: url('https://img.rrcj123.com/detleJQ/img/index/hot-right.png')"></a>
                                 <a target="_blank" class="forum-type">生活</a>
                             </li>
                         </ul>
 
                         <ul class="list_group"  style="height:390px;">
                             <li class="list_group_item"  >
-                                <a class="mix-img" href="#" target="_blank" style="background-image: url('http://img.rrcj123.com/detleJQ/img/index/mix/new5.jpg')"></a>
+                                <a class="mix-img" href="#" target="_blank" style="background-image: url('https://img.rrcj123.com/detleJQ/img/index/mix/new5.jpg')"></a>
                                 <a target="_blank" class="forum-type">天气</a>
                             </li>
                         </ul>
                         <ul class="list_group"  style="height:450px;">
                             <li class="list_group_item"  >
-                                <a class="mix-img" href="#" target="_blank" style="background-image: url('http://img.rrcj123.com/detleJQ/img/index/mix/new7.jpg')"></a>
+                                <a class="mix-img" href="#" target="_blank" style="background-image: url('https://img.rrcj123.com/detleJQ/img/index/mix/new7.jpg')"></a>
                                 <a target="_blank" class="forum-type">数码</a>
                             </li>
                         </ul>
                         <ul class="list_group"  style="height:400px;">
                             <li class="list_group_item"  >
-                                <a class="mix-img" href="#" target="_blank" style="background-image: url('http://img.rrcj123.com/detleJQ/img/news/news/81.jpg')"></a>
+                                <a class="mix-img" href="#" target="_blank" style="background-image: url('https://img.rrcj123.com/detleJQ/img/news/news/81.jpg')"></a>
                                 <a target="_blank" class="forum-type">数码</a>
                             </li>
                         </ul>
                         <ul class="list_group"  style="height:400px;">
                             <li class="list_group_item">
-                                <a class="mix-img" href="#" target="_blank" style="background-image: url('http://img.rrcj123.com/detleJQ/img/news/news/82.jpg')"></a>
+                                <a class="mix-img" href="#" target="_blank" style="background-image: url('https://img.rrcj123.com/detleJQ/img/news/news/82.jpg')"></a>
                                 <a target="_blank" class="forum-type">人物</a>
                             </li>
                         </ul>
                         <ul class="list_group"  style="height:400px;">
                             <li class="list_group_item">
-                                <a class="mix-img" href="#" target="_blank" style="background-image: url('http://img.rrcj123.com/detleJQ/img/news/news/84.jpg')"></a>
+                                <a class="mix-img" href="#" target="_blank" style="background-image: url('https://img.rrcj123.com/detleJQ/img/news/news/84.jpg')"></a>
                                 <a target="_blank" class="forum-type">人物</a>
                             </li>
                         </ul>
                         <ul class="list_group"  style="height:400px;">
                             <li class="list_group_item"  >
-                                <a class="mix-img" href="#" target="_blank" style="background-image: url('http://img.rrcj123.com/detleJQ/img/news/news/85.jpg')"></a>
+                                <a class="mix-img" href="#" target="_blank" style="background-image: url('https://img.rrcj123.com/detleJQ/img/news/news/85.jpg')"></a>
                                 <a target="_blank" class="forum-type">数码</a>
                             </li>
                         </ul>

@@ -4,11 +4,11 @@
       <div class="footer">
         <!--左一块-->
         <ul class="footer-lift">
-          <li><img src="http://img.rrcj123.com/detleJQ/img/logo-footer.png" alt=""/></li>
+          <li><img src="https://img.rrcj123.com/detleJQ/img/logo-footer.png" alt=""/></li>
           <li class="tubiao">
-            <a href="#"><img src="http://img.rrcj123.com/detleJQ/img/wf.png" alt=""/></a>
-            <a href="#"><img src="http://img.rrcj123.com/detleJQ/img/wx.png" alt=""/></a>
-            <a href="#"><img src="http://img.rrcj123.com/detleJQ/img/wb.png" alt=""/></a>
+            <a href="#"><img src="https://img.rrcj123.com/detleJQ/img/wf.png" alt=""/></a>
+            <a href="#"><img src="https://img.rrcj123.com/detleJQ/img/wx.png" alt=""/></a>
+            <a href="#"><img src="https://img.rrcj123.com/detleJQ/img/wb.png" alt=""/></a>
           </li>
           <li class="mt20">&copy; 2010-2018 DGtle.com</li>
           <li class="small-font"><a href="#">CC BY-NCSA 4.0</a></li>
